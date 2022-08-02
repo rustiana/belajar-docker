@@ -1,0 +1,1 @@
+docker container create --name nyx_sample --publish 8080:80 nginx:latest
